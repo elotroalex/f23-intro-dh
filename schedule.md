@@ -18,12 +18,6 @@ permalink: /schedule/
 
 #### Everything, Everywhere, All At Once: The (Digital) Cultural Record
 
-##### Studio
-
-- Who are we?
-- Collecting our thoughts and instruments
-- Tutorial: hypothes.is
-
 ##### Seminar
 
 - Borges, Jorge Luis. "[The Congress](https://posthegemony.files.wordpress.com/2013/02/borges_collected-fictions.pdf)"; "[El Aleph](https://posthegemony.files.wordpress.com/2013/02/borges_collected-fictions.pdf)."
@@ -31,12 +25,9 @@ permalink: /schedule/
 - Risam, Roopika. "[Introduction: The Postcolonial Digital Cultural Record](https://muse.jhu.edu/chapter/2230421/pdf)." _New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy_. Northwestern University Press, 2018.
 - [Reviews in DH](https://reviewsindh.pubpub.org/). Edited by Jennifer Guiliano and Roopika Risam. Vol. 3. 2022.
 
-<!-- Lessons learned:
+##### Studio
 
-a) Start with an exercise: Have students build the Global Library of All Things
-b) Consider Borges' the Garden of Forking Paths
-
- -->
+- Exercise: Building the Actual Global Library of All Things
 
 ---
 

@@ -11860,5 +11860,8 @@ textarea.form-control-lg {
   }
 }
 /* Custom Styles */
+hr {
+  margin: 2rem 0;
+}
 
 /*# sourceMappingURL=styles.css.map */
