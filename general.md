@@ -4,7 +4,9 @@ title: General
 permalink: /general/
 ---
 
-### Course Info
+## Course Info
+
+<br>
 
 Yale University  
 Introduction to Digital Humanities  
@@ -16,7 +18,7 @@ SPAN 845 | SPAN 291 | CPLT 606 | FREN 945 | HUMS 387
 Humanities Quadrangle 317  
 W 1:30PM--3:20PM
 
-### Instructor
+#### Instructor
 
 [Prof. Alex Gil](http://www.elotroalex.com/profiles/)  
 Office: Humanities Quadrangle, Room 439  
@@ -24,19 +26,19 @@ In Person Office Hours: Mondays, 1pm–2pm.
 Virtual Office Hours: Thursdays, 2pm–3pm, via [Slack](https://join.slack.com/t/introductiont-plq4967/shared_invite/zt-1fo8asm3a-li~T9jHyxu717IEKJkYk1g).  
 e-mail: alex.gil@yale.edu
 
-### Course Format
+#### Course Format
 
 This course will take two distinct forms: Mondays will consist of a seminar preceded by a brief lecture; and, Wednesdays we will have a digital studio where you will receive tutorials and work in teams to build and learn. In addition, students will be asked to participate in asynchronous community combined with online annotation exercises using [hypothes.is](https://web.hypothes.is/). Our choice of communication app will depend on the majority's preferences and/or special needs.
 
-### Requisites
+#### Requisites
 
 An interest in questions of art, history, law, culture, philology and philosophy---in short, all that we shape, which shapes us in return... and a computer.
 
-### Course Materials
+#### Course Materials
 
 All readings in this course will be provided _free to you_. Many articles and book chapters will be available for participants in the class on our shared drive following fair use guidelines. Other articles, and even books listed on the schedule will be available on the web open access. You fill find the appropriate links for all course materials in [the course schedule](/schedule.html).
 
-### Assessment and Grading
+#### Assessment and Grading
 
 - 20% Online Annotations
 - 10% Class Participation
@@ -46,7 +48,7 @@ All readings in this course will be provided _free to you_. Many articles and bo
 
 To learn more, please visit the [assignments page]({{"/assignments.html" | relative_url}}) [In construction].
 
-### Fundamentals of Computing
+#### Fundamentals of Computing
 
 This course shares much with peer courses at other institutions. You will study several genres of Digital Humanities, and get a sense of the wide range of practical possibilities available to you now, or in the future. One important difference, though, between this course and that of our peers is that ours does not spend too much time on the field of Digital Humanities itself qua field. Our course hovers instead between two gravitational centers: the architectures behind the scholarly and cultural record (the Humanities, sort of), and what we could call fundamentals of computing (the Digital, sort of).
 
@@ -54,7 +56,7 @@ Even though there are no technical requirements prior to you joining the class, 
 
 In addition to computing, you will also be introduced to some basics of Design and Project Management throughout the course. Design, because it shows we care about our audiences and our imagination grows in unexpected byways therein, and Project Management because projects need to be properly scoped and organized in order to become a reality in time without breaking our backs or bruising our bonds to one another.
 
-### Modalities of Engagement
+#### Modalities of Engagement
 
 I learned the ropes of Digital Humanities with a cohort of graduate students, as part of the [Praxis Program](https://praxis.scholarslab.org/) at the University of Virginia. Over the course of an academic year, our cohort worked to build a tool that allowed users to annotate a shared text, and compare their annotations after---team and project were central to my own learning. In order to be able to build Prism, the Praxis Program taught us the fundamentals of computing, design, project management, and _collaboration_. Since then, collaboration has been a mainstay of my professional practice. I do not expect any of you to be a natural at it. My own cohort surely had growing pains. True collaboration, presence and engagement with each other will be our overriding aspiration in this course. Below are some considerations in the form of a code of conduct to get us started thinking about our work together.
 
@@ -69,10 +71,10 @@ This code of conduct borrows from the stellar model outlined by Northeastern’s
 - **COVID-19 awareness**: This semester will be an experiment in more ways that one. One of them will be our transition to the post- we've been waiting for and which will probably remain that, the condition of waiting. Please be mindful of other's own comfort or discomfort with our new proximities.
 - **Academic Integrity**: Please refer to [Yale's regulations](http://catalog.yale.edu/undergraduate-regulations/regulations/academic-dishonesty/) for more information.
 
-### Accessibility
+#### Accessibility
 
 Our institution values diversity and inclusion; we are committed to a climate of mutual respect and full participation. Our goal is to create learning environments that are usable, equitable, inclusive and welcoming. If there are aspects of the instruction or design of this course that result in barriers to your inclusion or accurate assessment or achievement, please notify me, your instructor, as soon as possible. Disabled students are also welcome to contact [Student Accessibility Services](https://sas.yale.edu/) to discuss a range of options to removing barriers in the course, including accommodations.
 
-### Acknowledgments
+#### Acknowledgments
 
 In developing this course, I learned from many people, but I particularly thank Roopika Risam, Ryan Cordell, Miriam Posner, Jentery Sayers, Lauren Klein, Marisa Parham and Whitney Trettien for graduate syllabi and ideas from which I drew particular inspiration. In general, I would not be introducing you to Digital Humanities today if it wasn't for Bethany Nowviskie, Jeremy Boggs, Wayne Graham, David McClure, and the rest of the Scholars Lab crew at the University of Virginia, circa 2010. They taught me many of the fundamentals I hope to pass on to you this academic year.

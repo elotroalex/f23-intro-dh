@@ -154,7 +154,7 @@ b) Consider Borges' the Garden of Forking Paths
 
 ### Week 7 | Wednesday, October 17
 
-#### OCTOBER RECESS
+#### OCTOBER RECESS 🍂
 
 ---
 
@@ -241,7 +241,7 @@ b) Consider Borges' the Garden of Forking Paths
 
 ### Week 12 | Wednesday, November 22
 
-#### THANKSGIVING BREAK
+#### THANKSGIVING BREAK 🦃
 
 ---
 
