@@ -10,9 +10,9 @@ permalink: /assignments/
 
 #### Online Annotations
 
-During the semester you will start at least three conversations in one of our readings, and respond to at least three others started by someone else. We will use the tool hypothes.is in order to do our annotation exchanges. Below is the schedule for our online exchanges:
+During the semester you will engage in online annotation and dialogue over one of our readings. We will use the tool hypothes.is in order to do our annotations and exchanges.
 
-- Monday, September 19. Bush, Vannevar. “As We May Think.”
+<!-- - Monday, September 18. Bush, Vannevar. “As We May Think.” -->
 
 #### Class Engagement
 
@@ -30,7 +30,7 @@ In this group exercise you will build a relatively simple digital humanities pro
 
 [Details and criteria to come...]
 
-#### Scholarly Project Design Paper
+#### Scholarly Pitch
 
 In this exercise you will propose a dream (digital) scholarly research project to a potential funder.
 
