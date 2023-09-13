@@ -44,8 +44,9 @@ permalink: /schedule/
 - Hayles, N. Katherine. "[Print Is Flat, Code Is Deep: The Importance
   of Media-Specific
   Analysis](https://muse-jhu-edu.yale.idm.oclc.org/article/54949)
+- "Introduction." Tenen, Dennis. _Plain Text: The Poetics of Computation_. Stanford: Stanford University Press, 2017.
 
-☛ Look over at leisure: [Unicode 1.0.0](http://www.unicode.org/versions/Unicode1.0.0/)
+<!-- ☛ Look over at leisure: [Unicode 1.0.0](http://www.unicode.org/versions/Unicode1.0.0/) -->
 
 ##### Studio
 
@@ -60,7 +61,7 @@ permalink: /schedule/
 
 ##### Seminar
 
-- Bush, Vannevar. "[As We May Think](https://via.hypothes.is/https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)." _The Atlantic_, July 1945. [Link connects to hypothes.is]
+- Bush, Vannevar. "[As We May Think](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)." _The Atlantic_, July 1945.
 - Tagg, John. "[The Archiving Machine; Or, The Camera and the Filing
   Cabinet](https://direct-mit-edu.yale.idm.oclc.org/grey/article/doi/10.1162/GREY_a_00068/10631/The-Archiving-Machine-or-The-Camera-and-the-Filing)."
   _Grey Room_, no. 47 (April 1, 2012): 24--37.
@@ -68,10 +69,6 @@ permalink: /schedule/
   Programming Environment](http://files.catwell.info/misc/mirror/the-unix-programming-environment-kernighan-pike.pdf)_. Englewood Cliffs, N.J.: Prentice-Hall,
   1984: 41--65.
 - Vismann, Cornelia. ["Preface" and "Law's Writing Lesson"](https://drive.google.com/file/d/1dq40AGtyv42B6coFdd0X8LAIPZ0EbFY7/view?usp=sharing) in _Files: Law and Media Technology_. Translated by Geoffrey Winthrop-Young, Stanford University Press, 2008: 1--38.
-- Tenen, Dennis, and Grant Wythoff. "[Sustainable Authorship in Plain
-  Text Using Pandoc and
-  Markdown](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)."
-  Programming Historian, Mar. 2014. programminghistorian.org.
 
 ☛ Examine: Your file system and storage
 
