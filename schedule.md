@@ -65,11 +65,11 @@ permalink: /schedule/
 - Tagg, John. "[The Archiving Machine; Or, The Camera and the Filing
   Cabinet](https://direct-mit-edu.yale.idm.oclc.org/grey/article/doi/10.1162/GREY_a_00068/10631/The-Archiving-Machine-or-The-Camera-and-the-Filing)."
   _Grey Room_, no. 47 (April 1, 2012): 24--37.
-- Kernighan, Brian W, and Rob Pike. "The File System" in _[The UNIX
-  Programming Environment](http://files.catwell.info/misc/mirror/the-unix-programming-environment-kernighan-pike.pdf)_. Englewood Cliffs, N.J.: Prentice-Hall,
-  1984: 41--65.
 - Vismann, Cornelia. ["Preface" and "Law's Writing Lesson"](https://drive.google.com/file/d/1dq40AGtyv42B6coFdd0X8LAIPZ0EbFY7/view?usp=sharing) in _Files: Law and Media Technology_. Translated by Geoffrey Winthrop-Young, Stanford University Press, 2008: 1--38.
 
+☛ Skim: Kernighan, Brian W, and Rob Pike. "The File System" in _[The UNIX
+Programming Environment](http://files.catwell.info/misc/mirror/the-unix-programming-environment-kernighan-pike.pdf)_. Englewood Cliffs, N.J.: Prentice-Hall,
+1984: 41--65.  
 ☛ Examine: Your file system and storage
 
 ##### Studio
@@ -86,7 +86,7 @@ permalink: /schedule/
 ##### Seminar
 
 - Sahle, Patrick. "What Is a Scholarly Digital Edition?" _[Digital Scholarly Editing : Theories and Practices](http://books.openedition.org/obp/3397)_, edited by Matthew James Driscoll and Elena Pierazzo, Open Book Publishers, 2017, pp. 19--39.
-- McGann, Jerome. "[Introduction]({{site.baseurl}}/assets/docs/mcgann-radiant-intro.pdf)." _Radiant Textuality: Literary Studies after the World Wide Web_. 1st edition, Palgrave Macmillan, 2001.
+- McGann, Jerome. "[Introduction](http://teaching.elotroalex.com/f22-intro-dh/assets/docs/mcgann-radiant-intro.pdf)." _Radiant Textuality: Literary Studies after the World Wide Web_. 1st edition, Palgrave Macmillan, 2001.
 
 ☛ Examine: [The Shelley-Godwin Archive](http://shelleygodwinarchive.org/); [The Rosetti Archive](http://www.rossettiarchive.org/)
 
