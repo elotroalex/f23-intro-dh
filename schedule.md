@@ -61,6 +61,8 @@ permalink: /schedule/
 
 ##### Seminar
 
+**Discussion Lead**: Jacob Link
+
 - Bush, Vannevar. "[As We May Think](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)." _The Atlantic_, July 1945.
 - Tagg, John. "[The Archiving Machine; Or, The Camera and the Filing
   Cabinet](https://direct-mit-edu.yale.idm.oclc.org/grey/article/doi/10.1162/GREY_a_00068/10631/The-Archiving-Machine-or-The-Camera-and-the-Filing)."
@@ -85,6 +87,8 @@ Programming Environment](http://files.catwell.info/misc/mirror/the-unix-programm
 
 ##### Seminar
 
+**Discussion Leads**: Gavin Guerrette and Emma Hodgdon
+
 - Sahle, Patrick. "What Is a Scholarly Digital Edition?" _[Digital Scholarly Editing : Theories and Practices](http://books.openedition.org/obp/3397)_, edited by Matthew James Driscoll and Elena Pierazzo, Open Book Publishers, 2017, pp. 19--39.
 - McGann, Jerome. "[Introduction](http://teaching.elotroalex.com/f22-intro-dh/assets/docs/mcgann-radiant-intro.pdf)." _Radiant Textuality: Literary Studies after the World Wide Web_. 1st edition, Palgrave Macmillan, 2001.
 
@@ -102,6 +106,8 @@ Programming Environment](http://files.catwell.info/misc/mirror/the-unix-programm
 #### Bibliographies: Search Results, Works Cited, Syllabi, Catalogues, Shout-outs and If You Liked This Maybe You will Like That
 
 ##### Seminar
+
+**Discussion Lead**: Isaiah Cruz and Kennedy Anderson
 
 - Ahmed, Sara. "[Introduction: Bringing Feminist Theory Home](https://watermark-silverchair-com.yale.idm.oclc.org/9780822373377-001.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAuEwggLdBgkqhkiG9w0BBwagggLOMIICygIBADCCAsMGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMFQnr65uSNSzGwVTJAgEQgIIClHSHvj7VT7y5mYKZqvbno6ReaNV3cXP6S5DvbhuP0UAmvWL4vzxtHzcdsRBIWqPooyJnuj4-4DenbPVtxI9F164RTSKtVT_J5TpMiRB1vk23bmrUyPnUNtzbs9p_mISmFu3K4SPWDzhZ5L0UiZMSEO8FDE4UCCvCPUZ_UbzrCiclpdkzzErw4QzEzN9KWG_No7cctPYq9N0DuYnxta9hc8LnfNM8z4i0DTz32hQy7cPVNMLeWlPRtSaKwrmaF2DK5dJgGg1yl5sWjTOO9LLlPB5CtRM_qbdVrlKFZkom7yr2FRNBvU61PcSPJrdRCef975l1DaNi0_0YR6nxKh1RwMvir-5kv8MkWJtkmaiSfoBDThstnD_SUVmoU-ODHuCsELHo-A1ZGOvRY5eYqTMkTcjTWxrz-3Q_dIy-WfU7biZchAoR9SdLvM8toGoRpw81ZeMsg_jovpEtNVie5tjW3lvnhYOVpuYeUc7Nup8Sp4CAofRaZoHR-LbSpaqZPeduTZpS55n8yltpHFvI_6Vh_gSe-sT8-xfGffYFhio9VNA1IPUtZ0TyG7g44JIDcCRDNbnlFXVhjTRDcKNx6nmTBIY3NtZI6hm2LFWiqHjFhn9-MGpmRlc4XeVkMhwiwa3Ikp4tVi5AGk3g-h7FjWzcxPUazXKsDaPtvNpjX1yPT0aaH3R5rY-AUO1oHGm79Rz7lztyixUpW6Tv-IE9tVPR6oHJaBuJcUfW2VLC4YCibxvABuVQNLndFgxxi5NlBko2ZJxJZbR5j0L0CLc34BIo6tOVl6zjYn8kuGeefmD7eszu9d_JQ0h5JMRN_J7zXzr3IsCORSnAQVGlzPJqOJ1IVafFZtYYXsFe_QS_w9dWqgrTkrZ2cA)." _Living a Feminist Life_. Durham: Duke University Press, 2017. [Yale Library access]
 - Coman, Jonah. “[Trans Citation Practices — a Quick-and-Dirty Guideline](https://mxcoman.medium.com/trans-citation-practices-a-quick-and-dirty-guideline-9f4168117115).” Medium, 18 Mar. 2021.
@@ -122,6 +128,8 @@ Programming Environment](http://files.catwell.info/misc/mirror/the-unix-programm
 #### Data: Given and Taken, Where the Wild Things Are.
 
 ##### Seminar
+
+**Discussion Leads**: Allie Lopez and Rory Detweiler-Bedell
 
 - D'Ignazio, Catherine, and Lauren F. Klein. _Data Feminism_. MIT
   Press, 2020. Selections.
@@ -152,6 +160,8 @@ Programming Environment](http://files.catwell.info/misc/mirror/the-unix-programm
 
 ##### Seminar
 
+**Discussion Leads**: Emma Lazo, Dasom Kim and Karen Cortez
+
 - Hartman, Saidiya. "Venus in Two Acts." _Small Axe_, vol. 12, no. 2,
   2008, pp. 1--14.
 - Wilson-Lee, Edward. _The Catalogue of Shipwrecked Books: Young
@@ -173,11 +183,15 @@ Programming Environment](http://files.catwell.info/misc/mirror/the-unix-programm
 
 ### Week 9 | Wednesday, November 1
 
-#### Poesis: Digital Storytelling, Electronic Literature
+#### Algorithmic Approaches to Corpora: A Soft Introduction
 
 ##### Seminar
 
-- Borges, Jorge Luis. "[The Library of Babel](https://sites.evergreen.edu/politicalshakespeares/wp-content/uploads/sites/226/2015/12/Borges-The-Library-of-Babel.pdf)" (1941); "[Tlön, Uqbar, Orbis Tertius](https://sites.evergreen.edu/politicalshakespeares/wp-content/uploads/sites/226/2015/12/Borges-Tl%C3%B6n-Uqbar-Orbius-Tertius.pdf)" (1940)
+Underwood, Ted. _Distant Horizons: Digital Evidence and Literary Change_. Chicago, IL: University of Chicago Press, 2019.
+
+**Discussion Lead**: Shwetant Kumar
+
+<!-- - Borges, Jorge Luis. "[The Library of Babel](https://sites.evergreen.edu/politicalshakespeares/wp-content/uploads/sites/226/2015/12/Borges-The-Library-of-Babel.pdf)" (1941); "[Tlön, Uqbar, Orbis Tertius](https://sites.evergreen.edu/politicalshakespeares/wp-content/uploads/sites/226/2015/12/Borges-Tl%C3%B6n-Uqbar-Orbius-Tertius.pdf)" (1940)
 - Basile, Jonathan. "[The Library of Babel](https://libraryofbabel.info/)" (2015)
 - Montfort, Nick and Stephanie Strickland. "[Sea and Spar in
   Between](http://winteranthology.com/?vol=3&author=montfort-strickland&title=seaandspar)."
@@ -185,7 +199,7 @@ Programming Environment](http://files.catwell.info/misc/mirror/the-unix-programm
 - Flores, Leonardo. "[Artistic and Literary Bots](https://www.bloomsburycollections.com/book/electronic-literature-as-digital-humanities-contexts-forms-practices/ch11-artistic-and-literary-bots)." _Electronic Literature as Digital Humanities: Contexts, Forms, & Practices_. Grigar, Dene, and James Christopher O'Sullivan, editors. Bloomsbury Academic, 2021.
 - Tanenbaum, Theresa Jean and Karen Tanenbaum. "[Consuming the Database: The Reading Glove as a Case Study of Combinatorial Narrative](https://www.bloomsburycollections.com/book/electronic-literature-as-digital-humanities-contexts-forms-practices/ch12-consuming-the-database-the-reading-glove-as-a-case-study-of-combinatorial-narrative)." _Electronic Literature as Digital Humanities: Contexts, Forms, & Practices_. Grigar, Dene, and James Christopher O'Sullivan, editors. Bloomsbury Academic, 2021.
 
-☛ Examine: [The Electronic Literature Collection](https://collection.eliterature.org/)
+☛ Examine: [The Electronic Literature Collection](https://collection.eliterature.org/) -->
 
 ##### Studio
 
@@ -196,17 +210,11 @@ Programming Environment](http://files.catwell.info/misc/mirror/the-unix-programm
 
 ### Week 10 | Wednesday, November 8
 
-#### Dusting: Time Capsules
+#### Our Themes
 
 ##### Seminar
 
-- Jarvis, William E. “Modern Time Capsules: Symbolic Repositories of Civilization.” Libraries & Culture, vol. 27, no. No. 3, Summer 1992, pp. 279–95.
-- Nowviskie, B. “Digital Humanities in the Anthropocene.” Digital Scholarship in the Humanities, vol. 30, no. suppl 1, Dec. 2015, pp. i4–15. DOI.org (Crossref), https://doi.org/10.1093/llc/fqv015.
-- Swann, Marjorie (Marjorie E. ). “Introduction.” _Curiosities and Texts: The Culture of Collecting in Early Modern England_, University of Pennsylvania Press, 2001.
-- Yablon, Nick. “Encapsulating the Present: Material Decay, Labor Unrest, and the Prehistory of the Time Capsule, 1876–1914.” Winterthur Portfolio, vol. 45, no. 1, 2011, pp. 1–28. JSTOR, https://doi.org/10.1086/658932.
-- ---. “Memory, History, Posterity.” Remembrance of Things Present: The Invention of the Time Capsule, edited by Nick Yablon, University of Chicago Press, 2019, p. 0. Silverchair, https://doi.org/10.7208/chicago/9780226574271.003.0001.
-
-☛ Examine: The material world around you. I know, I know. Just look at it again, please.
+TBD
 
 ##### Studio
 
