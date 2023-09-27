@@ -107,7 +107,7 @@ Programming Environment](http://files.catwell.info/misc/mirror/the-unix-programm
 
 ##### Seminar
 
-**Discussion Lead**: Isaiah Cruz and Kennedy Anderson
+**Discussion Leads**: Isaiah Cruz and Kennedy Anderson
 
 - Ahmed, Sara. "[Introduction: Bringing Feminist Theory Home](https://watermark-silverchair-com.yale.idm.oclc.org/9780822373377-001.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAuEwggLdBgkqhkiG9w0BBwagggLOMIICygIBADCCAsMGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMFQnr65uSNSzGwVTJAgEQgIIClHSHvj7VT7y5mYKZqvbno6ReaNV3cXP6S5DvbhuP0UAmvWL4vzxtHzcdsRBIWqPooyJnuj4-4DenbPVtxI9F164RTSKtVT_J5TpMiRB1vk23bmrUyPnUNtzbs9p_mISmFu3K4SPWDzhZ5L0UiZMSEO8FDE4UCCvCPUZ_UbzrCiclpdkzzErw4QzEzN9KWG_No7cctPYq9N0DuYnxta9hc8LnfNM8z4i0DTz32hQy7cPVNMLeWlPRtSaKwrmaF2DK5dJgGg1yl5sWjTOO9LLlPB5CtRM_qbdVrlKFZkom7yr2FRNBvU61PcSPJrdRCef975l1DaNi0_0YR6nxKh1RwMvir-5kv8MkWJtkmaiSfoBDThstnD_SUVmoU-ODHuCsELHo-A1ZGOvRY5eYqTMkTcjTWxrz-3Q_dIy-WfU7biZchAoR9SdLvM8toGoRpw81ZeMsg_jovpEtNVie5tjW3lvnhYOVpuYeUc7Nup8Sp4CAofRaZoHR-LbSpaqZPeduTZpS55n8yltpHFvI_6Vh_gSe-sT8-xfGffYFhio9VNA1IPUtZ0TyG7g44JIDcCRDNbnlFXVhjTRDcKNx6nmTBIY3NtZI6hm2LFWiqHjFhn9-MGpmRlc4XeVkMhwiwa3Ikp4tVi5AGk3g-h7FjWzcxPUazXKsDaPtvNpjX1yPT0aaH3R5rY-AUO1oHGm79Rz7lztyixUpW6Tv-IE9tVPR6oHJaBuJcUfW2VLC4YCibxvABuVQNLndFgxxi5NlBko2ZJxJZbR5j0L0CLc34BIo6tOVl6zjYn8kuGeefmD7eszu9d_JQ0h5JMRN_J7zXzr3IsCORSnAQVGlzPJqOJ1IVafFZtYYXsFe_QS_w9dWqgrTkrZ2cA)." _Living a Feminist Life_. Durham: Duke University Press, 2017. [Yale Library access]
 - Coman, Jonah. “[Trans Citation Practices — a Quick-and-Dirty Guideline](https://mxcoman.medium.com/trans-citation-practices-a-quick-and-dirty-guideline-9f4168117115).” Medium, 18 Mar. 2021.
