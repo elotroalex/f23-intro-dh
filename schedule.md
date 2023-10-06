@@ -185,6 +185,8 @@ Programming Environment](http://files.catwell.info/misc/mirror/the-unix-programm
 
 #### Algorithmic Approaches to Corpora: A Soft Introduction
 
+**Discussion Leads**: Shwetant Kumar and Fia Sheeran
+
 ##### Seminar
 
 - Underwood, Ted. _Distant Horizons: Digital Evidence and Literary Change_. Chicago, IL: University of Chicago Press, 2019.
@@ -213,6 +215,8 @@ Programming Environment](http://files.catwell.info/misc/mirror/the-unix-programm
 ### Week 10 | Wednesday, November 8
 
 #### Our Themes
+
+**Discussion Lead**: Ana Fernández Blázquez
 
 ##### Seminar
 
