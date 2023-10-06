@@ -125,21 +125,23 @@ Programming Environment](http://files.catwell.info/misc/mirror/the-unix-programm
 
 ### Week 6 | Wednesday, October 11
 
-#### Data: Given and Taken, Where the Wild Things Are.
+#### Data: Given and Taken, Then We Use It as a Brush.
 
 ##### Seminar
 
 **Discussion Leads**: Allie Lopez and Rory Detweiler-Bedell
 
-- D'Ignazio, Catherine, and Lauren F. Klein. _Data Feminism_. MIT
-  Press, 2020. Selections.
-- Drucker, Johanna. "Humanities Approaches to Graphical Display."
+- D'Ignazio, Catherine, and Lauren F. Klein. "[Introduction](https://direct-mit-edu.yale.idm.oclc.org/books/oa-monograph/4660/chapter/213284/Introduction-Why-Data-Science-Needs-Feminism)." _Data Feminism_. MIT
+  Press, 2020.
+- Drucker, Johanna. "[Humanities Approaches to Graphical Display](https://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html)."
   Digital Humanities Quarterly, vol. 005, no. 1, Mar. 2011.
-- Benjamin, Ruha. _Race after Technology: Abolitionist Tools for the
-  New Jim Code_. Polity, 2019. Selections.
-- Halberstam, Jack. "Zombie Antihumanism at the End of the World." _Wild Things: The Disorder of Desire_. Perverse Modernities. Durham: Duke University Press, 2020.
+- Sá Pereira, Moacir P. de. "[Representation Matters](http://xpmethod.columbia.edu/torn-apart/reflections/moacir_p_de_sa_pereira_2.html)." _Torn
+  Apart/Separados_. June 2018. xpmethod.columbia.edu.
+- Hartman, Saidiya. "[Venus in Two Acts](https://www.proquest.com/docview/195789319?accountid=15172&parentSessionId=QoWCQi2tWT6qEFeCa2Sg64W2EpXRKnd5h8jEwR8QxXQ%3D&pq-origsite=summon)." _Small Axe_, vol. 12, no. 2,
+2008, pp. 1--14.
+<!-- - Halberstam, Jack. "Zombie Antihumanism at the End of the World." _Wild Things: The Disorder of Desire_. Perverse Modernities. Durham: Duke University Press, 2020. -->
 
-☛ Examine: [The Viral Texts Project](https://viraltexts.org/); [(Un)Silencing Slavery](https://unsilencing-slavery.org/credits)
+☛ Examine: [Torn Apart/Separados](https://xpmethod.columbia.edu/torn-apart/volume/1/); [(Un)Silencing Slavery](https://unsilencing-slavery.org/credits)
 
 ##### Studio
 
@@ -162,8 +164,6 @@ Programming Environment](http://files.catwell.info/misc/mirror/the-unix-programm
 
 **Discussion Leads**: Emma Lazo, Dasom Kim and Karen Cortez
 
-- Hartman, Saidiya. "Venus in Two Acts." _Small Axe_, vol. 12, no. 2,
-  2008, pp. 1--14.
 - Wilson-Lee, Edward. _The Catalogue of Shipwrecked Books: Young
   Columbus and the Quest for a Universal Library_. EPub edition,
   William Collins, 2018. Selections
@@ -187,7 +187,9 @@ Programming Environment](http://files.catwell.info/misc/mirror/the-unix-programm
 
 ##### Seminar
 
-Underwood, Ted. _Distant Horizons: Digital Evidence and Literary Change_. Chicago, IL: University of Chicago Press, 2019.
+- Underwood, Ted. _Distant Horizons: Digital Evidence and Literary Change_. Chicago, IL: University of Chicago Press, 2019.
+
+☛ Examine: [The Viral Texts Project](https://viraltexts.org/);
 
 **Discussion Lead**: Shwetant Kumar
 
@@ -265,12 +267,12 @@ TBD
 
 ##### Seminar
 
+- Benjamin, Ruha. "[Default Discrimination](https://web-s-ebscohost-com.yale.idm.oclc.org/ehost/ebookviewer/ebook/bmxlYmtfXzIxOTQ0MzhfX0FO0?sid=b16fb1c5-098f-4405-893e-c9d68290ae4d@redis&vid=0&format=EK&lpid=navPoint-20&rid=0)." _Race after Technology: Abolitionist Tools for the
+  New Jim Code_. Polity, 2019.
 - [The Nimble Tents Toolkit](https://nimbletents.github.io/)
-- Sá Pereira, Moacir P. de. "[Representation Matters](http://xpmethod.columbia.edu/torn-apart/reflections/moacir_p_de_sa_pereira_2.html)." _Torn
-  Apart/Separados_. June 2018. xpmethod.columbia.edu.
 - [pirate.care.syllabus▒▒▒🐙](https://syllabus.pirate.care/)
 
-☛ Examine: [Torn Apart/Separados](https://xpmethod.columbia.edu/torn-apart/volume/1/), [SUCHO](https://www.sucho.org/)
+☛ Examine: [SUCHO](https://www.sucho.org/)
 
 ##### Studio
 
