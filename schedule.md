@@ -125,7 +125,7 @@ Programming Environment](http://files.catwell.info/misc/mirror/the-unix-programm
 
 ### Week 6 | Wednesday, October 11
 
-#### Data: Given and Taken, Then We Use It as a Brush.
+#### Data: Given and Taken, then We Use It as a Brush.
 
 ##### Seminar
 
