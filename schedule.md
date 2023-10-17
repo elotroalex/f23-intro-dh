@@ -164,13 +164,11 @@ Programming Environment](http://files.catwell.info/misc/mirror/the-unix-programm
 
 **Discussion Leads**: Emma Lazo, Dasom Kim and Karen Cortez
 
-- Wilson-Lee, Edward. _The Catalogue of Shipwrecked Books: Young
+- Wilson-Lee, Edward. [(Selections)](http://teaching.elotroalex.com/assets/docs/lee-catalogue.pdf). _The Catalogue of Shipwrecked Books: Young
   Columbus and the Quest for a Universal Library_. EPub edition,
-  William Collins, 2018. Selections
-- da Silva, Natália Marques, et al. "Digitization as Revival: A Case
-  Study of the Musée Ogier-Fombrun." Archipelagos, no. 6, Mar. 2020.
-  archipelagosjournal.org,
-  https://doi.org/10.7916/archipelagos-6sqv-2f98.
+  William Collins, 2018.
+- da Silva, Natália Marques, et al. "[Digitization as Revival: A Case Study of the Musée Ogier-Fombrun](https://doi.org/10.7916/archipelagos-6sqv-2f98)." _archipelagos journal_, no. 6, Mar. 2020. archipelagosjournal.org.
+- Berry, Dorothy. “[Take Me into the Library and Show Me Myself: Toward Authentic Accessibility in Digital Libraries](https://www-jstor-org.yale.idm.oclc.org/stable/45420503?casa_token=bRVtcyluEj8AAAAA%3A_9tL_itOwd4TR277RLDDhfgjMi5FtVc_gJIT8fCJZXNcBOJN5CKZwBAmwhlwqMyKI-AuSgR2wWpNrfqE6groLVXITg0sK9QnAXcWFX8jtxO0g-I4hZo&typeAccessWorkflow=login).” Transactions of the American Philosophical Society 110, no. 3 (2022): 111–26.
 
 ☛ Examine: [La Gazette Royale d'Haïti](http://lagazetteroyale.com/); [Colored Conventions Project](https://coloredconventions.org/)
 
